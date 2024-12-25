@@ -1,5 +1,6 @@
 ## Education
-### The George Washington University, Columbian College of Arts & Sciences                                   
+### The George Washington University, Columbian College of Arts & Sciences   
+
 **Bachelor of Science in Data Science, Minor in Business Analytics**        (**May 2025**)
 
 **GPA:** 3.69 | **Major GPA:** 3.95
